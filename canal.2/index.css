@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  --font-family: "Inter", sans-serif;
+  --text-color: #000e01;
+  --primary-color: #ffffff;
+  --secondary-color: #618264;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+header {
+  width: 100%;
+  height: 15rem;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 4.5rem;
+  list-style: none;
+  text-decoration: none;
+  font-size: 2.4rem;
+}
+
+button{
+  border-radius: 50px;
+  width: 18rem;
+  height: 6rem;
+  background-color:var(--secondary-color) ;
+  color: var(--primary-color); 
+  font-size: 2rem;  
+  padding-right: 0;   
+}
+
+.swich{
+  padding-right: 8rem;
+}
+
+.image{
+  padding-left: 5rem;
+}
+
+.phototext{
+  display: flex;
+  width: 100%;
+  height: 62.2rem;
+}
+
+.text{
+  padding: 1rem 2rem 3rem 3rem;
+}
+
+p{
+  font-size: 2rem;
+  font-family: var(--font-family);
+}
+h3{
+    font-size: 2.6rem;
+}
+
+.one{
+  padding-bottom: 2rem;
+}
+
+.two{
+  padding-bottom: 2.5rem;
+}
+
+.three{
+  padding-bottom: 2.5rem;
+}
+.five{
+padding-bottom: 1rem;
+padding-top: 8rem;
+
+}
+
+.images{
+  padding-top: 8.5rem;
+  width: 100%;
+  height: 30%;
+  background-color: aqua;
+}
+
+.first{
+  float: right;
+  padding-top: 2rem;;
+}
+.second{
+  float: inline-end;
+  padding-bottom: 25rem;
+}
+
+
+
+
+
+
+
+
+
+
