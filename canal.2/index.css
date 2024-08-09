@@ -19,6 +19,7 @@ html {
 
 body {
   overflow-x: hidden;
+  font-size: 10px;
 }
 
 header{
@@ -93,3 +94,94 @@ p{
  padding-left: 2rem;
  padding-right: 2rem;
 }
+
+
+
+.image-section{
+  width: 100%;
+  height: 55rem;
+  background-color: rgba(212, 0, 255, 0.993);
+  flex-direction: row;
+  display: flex;
+}
+
+.imgcard{
+  flex: 1;
+  background-color: aqua;
+  padding-left: 4rem;
+  padding-top: 3rem;
+}
+
+.image-card{
+flex: 1;
+padding-left: 3rem;
+padding-top: 3rem;
+}
+
+.abou{
+  flex: 1;
+  background-color: cadetblue;
+  padding-left: 5rem;
+  padding-top: 3rem;
+}
+
+.change{
+  padding-top: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width:24rem;
+}
+
+.willy{
+  padding-top: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width:24rem;
+}
+
+.mike{
+  padding-top: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width:24rem;
+}
+
+.bakalai{
+width: 100%;
+height: 79rem;
+display: flex;
+background-color: rgb(110, 160, 95);
+flex-direction: column;
+}
+
+.kavi{
+display: flex;
+justify-content: space-between;
+font-size:2.4rem;
+padding-left: 22rem;
+padding-top: 2rem;
+}
+.zogo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20PX;
+  padding-right:2rem;
+  padding-top: 8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
