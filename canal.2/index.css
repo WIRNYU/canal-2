@@ -57,29 +57,39 @@ button{
 
 .pho{
   flex:1; 
+  padding-right: 2rem;
+
 }
 .general{
+  flex: 1;
   flex-direction: column;
-  padding-right: 22rem;
-  padding-top: 2rem;
 }
 
 .forget{
   justify-content: center;
+  align-items: center;
 }
 
+h3{
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+p{
+  font-size: 1.4rem;
+  padding-bottom: 7rem;
+}
 
+.one{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 
+.two{
+  padding-bottom: 2rem;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.text{
+ padding-top: 13rem;
+ padding-left: 2rem;
+ padding-right: 2rem;
+}
