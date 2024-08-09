@@ -173,6 +173,149 @@ padding-top: 2rem;
   padding-top: 8rem;
 }
 
+.formule{
+  display: flex;
+  padding-top: 8rem;
+  width: 100%;
+  height: 47rem;
+}
+
+.matin{
+  flex: 1;
+  background-color: aqua;
+}
+
+.nels{
+  flex: 1;
+  background-color: aquamarine;
+}
+
+.me{
+  padding-bottom: 3rem;
+  padding-left: 27rem;
+  padding-top: 6rem;
+  font-size: 2.5rem;
+}
+
+.pro{
+  font-size: 2rem;
+  padding-left: 4rem;
+}
+
+.pre{
+  font-size: 2rem;
+  padding-left: 4rem;
+}
+
+.hy{
+  font-size: 2.5rem;
+  padding-left: 46rem;
+  padding-top: 5rem;
+}
+
+.pic{
+  padding-left: 6rem;
+}
+
+.six{
+  width: 100%;
+  height: 50rem;
+  display: flex;
+  padding-top: 4rem;
+}
+
+.sit{
+  flex: 1;
+  padding-top: 5rem;
+  padding-left: 4rem;
+  font-size: 2.5rem;
+  background-color: green;
+}
+
+.siy{
+  flex: 1;
+  padding-left: 2rem;
+  font-size: 2.5rem;
+  background-color: red;
+}
+.siu{
+  flex: 1;
+  font-size: 2.5rem;
+  background-color: yellow;
+}
+h4{
+  flex-direction: row;
+}
+
+.sept{
+width: 100%;
+height: 50rem;
+background-color: #618264;
+display: flex;
+}
+
+.matinal{
+  padding-left: 67rem;
+  position: absolute;
+}
+
+.nelson{
+  padding-right: 90rem;
+  position: relative;
+  z-index: 2;
+}
+
+.meet{
+  font-size: 2.5rem;
+  padding-left: 10rem;
+  padding-top: 8rem;
+  padding-bottom: 4rem;
+}
+
+.problem{
+  font-size: 2rem;
+  padding-left: 6rem;
+}
+
+.precode{
+  font-size: 2rem;
+  padding-left: 8rem;
+}
+
+.univers{
+  width: 100%;
+  height: 58rem;
+}
+
+.reg{
+  padding-left: 4rem;
+}
+
+.higth{
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: left 3rem ;
+  color: var(--secondary-color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
